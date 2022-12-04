@@ -1,2 +1,2 @@
-Projetos de auto nível de complexidade:
-      Atenção aos projetos...
+# final_version_sites_pastas
+Sites agrupados em pastas, para posterior revisão e aprendizado, visando "codar sites de cabeça".
